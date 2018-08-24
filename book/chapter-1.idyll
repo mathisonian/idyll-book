@@ -1,0 +1,18 @@
+
+
+[var name:"x" value:5 /]
+
+
+# Chapter 1
+
+This is my book.
+
+[See chapter two.](../chapter-2/)
+
+
+Run chapter one...
+
+[CustomComponent value:x min:0 max:10 /]
+
+[br/]
+[Display value:x /]

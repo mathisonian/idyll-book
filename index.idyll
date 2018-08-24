@@ -1,0 +1,14 @@
+
+
+# Welcome to My Interactive Book
+
+## This is a welcome screen.
+
+You could use it to for example,
+list a table of contents, or display a big button that says
+
+[a href:"./book/chapter-1"]
+[Button]
+  Click to Get Started
+[/Button]
+[/a]
