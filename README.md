@@ -35,3 +35,11 @@ idyll -i index.idyll -o build
 # individual chapter
 idyll -i book/chapter-<chapter-number>.idyll -o build/chapter-number
 ```
+
+To build everything:
+
+```
+./build.sh
+```
+
+This will compile all pages and start a server on localhost:8080.
