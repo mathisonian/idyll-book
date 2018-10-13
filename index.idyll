@@ -8,7 +8,7 @@ You could use it to for example,
 list a table of contents, or display a big button that says
 
 [a href:"./chapters/01-getting-started"]
-[Button onClick`window.location.href = './chapters/01-getting-started'`]
+[Button onClick:`window.location.href = './chapters/01-getting-started'`]
   Click to Get Started
 [/Button]
 [/a]
