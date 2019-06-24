@@ -2,6 +2,8 @@
 
 # Multi-page Idyll
 
+Updated example at https://github.com/idyll-lang/idyll-multipage-example
+
 ![animated example](https://user-images.githubusercontent.com/1074773/44600272-a4170700-a78d-11e8-83e3-c60fd55d7304.gif)
 
 In this example, we are making a book. There is a home page / index page
